@@ -1,3 +1,3 @@
-# Leetcode_practice
+# Leetcode Problems
 
 GitHub repository to compile all my leetcode practice
